@@ -1,0 +1,5 @@
+AnswerIntent the answer is {Answer}
+AnswerIntent my answer is {Answer}
+
+NameIntent my name is {FirstName}
+NameIntent I am {FirstName}

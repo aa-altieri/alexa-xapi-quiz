@@ -1,0 +1,10 @@
+{
+  "name": "DevLearn Example One",
+  "version": "0.9",
+  "description": "Example Alexa quiz sending xAPI statements",
+  "main": "index.js",
+  "author": "Anthony Altieri - IDI.o.T.",
+  "dependencies": {
+    "alexa-sdk": "^1.0.15"
+  }
+}
